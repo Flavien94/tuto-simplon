@@ -1,0 +1,13 @@
+body{
+text-align: center;
+ background-color:#983434;
+
+}
+.MARIA{
+  width: 550px;
+  height: 256px;
+
+}
+li{
+  list-style-position: inside;
+}

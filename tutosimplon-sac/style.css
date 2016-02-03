@@ -1,0 +1,30 @@
+body{
+ background: linear-gradient(to right, rgba(102,204,114,1) 0%, rgba(30,250,56,1) 100%)
+}
+.conteneur{
+  width: 80%;
+  margin: 0px auto;
+}
+p {
+	display: inline-block;
+	margin-left: 15%;
+
+	text-align: center;
+	width: 50%;
+
+}
+.logo{
+	width: 150px;
+	border-radius: 50%;
+	margin-left: 35%;
+}
+
+img {
+margin-left: 17px;
+
+}
+
+h1{
+	font-weight: 900;
+	font-size: 4em;
+}

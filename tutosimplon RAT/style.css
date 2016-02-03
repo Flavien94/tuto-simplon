@@ -1,0 +1,17 @@
+h1{
+  color:rgb(0, 26, 255);
+  font-size:50px;
+  margin: 0
+}
+header{
+  background-image: url(images/index.jpeg)
+}
+
+.voitures{color:rgb(0, 153, 255) }
+body{
+  background-image: url(images/images.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white
+}
+  .mc{color:rgb(219, 1, 28)}
